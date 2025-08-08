@@ -23,29 +23,6 @@ Airlines operate in a highly competitive market where customer experience direct
 
 ---
 
-## Project Structure
-
-/  
-├── data/  
-│   ├── Airline-Passenger-Satisfaction-Survey-Analysis.ipynb   # Main Jupyter notebook with full analysis  
-│   ├── Analysis-Presentation.pdf                               # PowerPoint-style presentation of key findings  
-│   ├── Insights-and-Recommendation.pdf                         # PDF summary of insights and business recommendations  
-│   ├── LICENSE                                                 # MIT License for reuse  
-│   └── README.md                                               # Project README (for GitHub display)  
-
-├── Visualization Images/  
-│   ├── Customer Satisfaction Proportion.jpg  
-│   ├── Insight and Recommendation.jpg  
-│   ├── Satisfaction by Travel Class.jpg  
-│   ├── Satisfaction by Travel Type.jpg  
-│   ├── Satisfaction by Age Group.jpg  
-│   ├── Satisfaction by Gender.jpg  
-│   ├── Satisfaction by Loyalty Status.jpg  
-│   ├── Satisfaction by Flight Distance.jpg  
-│   └── Satisfaction by Departure Delay.jpg
-
----
-
 ## Key Skills Demonstrated
 
 -  Data Cleaning & Preprocessing  
